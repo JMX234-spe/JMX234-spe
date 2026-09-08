@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7F00FF&height=170&section=header&text=JM&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=programo%20por%20pura%20curiosidad&descAlignY=62&descAlign=50" width="100%" />
+  <img src="assets/avatar.svg" width="140" alt="JM logo pixel" />
 </p>
 
+<h1 align="center">JM</h1>
+
 <p align="center">
-  <img src="assets/avatar.svg" width="140" alt="JM logo pixel" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7FFFD4&center=true&vCenter=true&width=650&lines=programo+por+hobby%2C+no+por+chamba;me+gusta+cacharrear+hasta+entender+c%C3%B3mo+funciona;I+code+for+fun+%26+curiosity" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1F2328&center=true&vCenter=true&width=650&lines=programo+por+hobby%2C+no+por+chamba;me+gusta+cacharrear+hasta+entender+c%C3%B3mo+funciona;I+code+for+fun+%26+curiosity" alt="typing" />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://instagram.com/nvxlol123"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @nvxlol123" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JMX234-spe&style=flat-square&color=7F00FF" alt="visitas" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7FFFD4&center=true&vCenter=true&width=650&lines=programo+por+hobby%2C+no+por+chamba;me+gusta+cacharrear+hasta+entender+c%C3%B3mo+funciona;I+code+for+fun+%26+curiosity" alt="typing" />
 </p>
 
 ---
@@ -61,18 +61,30 @@ Uso herramientas como **OpenCode** y **Antigravity** para ir más rápido, pero 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMX234-spe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7FFFD4&icon_color=7F00FF" height="160" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=JMX234-spe&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=FF7CE5&currStreakLabel=7FFFD4" height="160" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JMX234-spe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7FFFD4&icon_color=7F00FF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JMX234-spe&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F2328&icon_color=7F00FF&text_color=1F2328" height="160" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JMX234-spe&theme=tokyonight&hide_border=true&background=00000000&ring=7F00FF&fire=FF7CE5&currStreakLabel=7FFFD4" />
+    <img src="https://streak-stats.demolab.com?user=JMX234-spe&hide_border=true&background=00000000" height="160" alt="streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMX234-spe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JMX234-spe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7FFFD4" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMX234-spe&layout=compact&hide_border=true&bg_color=00000000&title_color=1F2328" alt="top langs" />
+  </picture>
 </p>
 
 > Recién empiezo aquí, así que se ven vacías. Se llenan solas cuando suba código.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JMX234-spe/JMX234-spe/output/snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMX234-spe/JMX234-spe/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/JMX234-spe/JMX234-spe/output/snake.svg" alt="snake" />
+  </picture>
 </p>
 
 ---
@@ -82,9 +94,3 @@ Uso herramientas como **OpenCode** y **Antigravity** para ir más rápido, pero 
 Solo por aquí, nada de LinkedIn ni correo:
 
 [![Instagram](https://img.shields.io/badge/@nvxlol123-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nvxlol123)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:0d1117&height=120&section=footer" width="100%" />
-</p>
