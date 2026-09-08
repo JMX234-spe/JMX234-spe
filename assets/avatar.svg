@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7F00FF"/>
+      <stop offset="1" stop-color="#00FFF7"/>
+    </linearGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="none"/>
+      <rect x="15" y="15" width="1" height="1" fill="#21262d"/>
+    </pattern>
+  </defs>
+  <rect x="4" y="4" width="248" height="248" rx="28" fill="#0d1117" stroke="url(#neon)" stroke-width="4"/>
+  <rect x="4" y="4" width="248" height="248" rx="28" fill="url(#grid)" opacity="0.9"/>
+  <!-- pixel accents -->
+  <rect x="28" y="28" width="8" height="8" fill="#7F00FF"/>
+  <rect x="40" y="28" width="8" height="8" fill="#00FFF7" opacity="0.7"/>
+  <rect x="28" y="40" width="8" height="8" fill="#00FFF7" opacity="0.4"/>
+  <rect x="208" y="28" width="8" height="8" fill="#00FFF7"/>
+  <rect x="220" y="28" width="8" height="8" fill="#7F00FF" opacity="0.7"/>
+  <rect x="220" y="40" width="8" height="8" fill="#7F00FF" opacity="0.4"/>
+  <rect x="28" y="212" width="8" height="8" fill="#7FFFD4" opacity="0.8"/>
+  <rect x="220" y="212" width="8" height="8" fill="#FF7CE5" opacity="0.8"/>
+  <!-- JM with pixel shadow -->
+  <text x="130" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-weight="900" font-size="96" letter-spacing="2" fill="#00FFF7" opacity="0.9">JM</text>
+  <text x="128" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-weight="900" font-size="96" letter-spacing="2" fill="#ffffff">JM</text>
+  <text x="128" y="182" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#7FFFD4">// hobbyist</text>
+  <rect x="88" y="196" width="80" height="6" rx="3" fill="url(#neon)"/>
+</svg>
