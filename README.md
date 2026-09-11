@@ -23,6 +23,8 @@ Programador hobbyista. Aprendo por pasión, no por título. Me gusta abrir las c
 
 Uso herramientas como **OpenCode** y **Antigravity** para ir más rápido, pero me clavo en entender el porqué del código, no solo en que jale.
 
+Ahora mismo estoy construyendo **[leash](https://github.com/JMX234-spe/leash)**: un wrapper de seguridad para agentes de código, en Rust.
+
 > *I just like figuring out how stuff works.*
 
 ---
@@ -30,31 +32,29 @@ Uso herramientas como **OpenCode** y **Antigravity** para ir más rápido, pero 
 ### 🛠️ Stack
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,cpp,py&theme=dark" alt="C#, C++, Python" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rs,ts,py,cs,cpp&theme=dark" alt="Rust, TypeScript, Python, C#, C++" /></a>
 </p>
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**En lo que ando:** un poco de todo — webs, apps, bots, automatizaciones (poquito, ~3%) y scripts sueltos.
+**En lo que ando:** un poco de todo — CLIs, webs, apps, bots, automatizaciones (poquito, ~3%) y scripts sueltos.
 
 **Con apoyo de:** `OpenCode` · `Antigravity`
 
 ---
 
-### 📌 Proyectos destacados
+### 📌 Proyecto destacado
 
-> Los repos se publican pronto. Esto es placeholder para no dejarlo vacío.
+**[leash](https://github.com/JMX234-spe/leash)** — corre agentes de código en pseudo-terminal, les aplica políticas de seguridad, guarda audit logs y crea checkpoints de git para revertir al instante. 100% local, cero telemetría.
 
-| Proyecto | Qué es | Estado |
-|---|---|---|
-| [Proyecto 1](https://github.com/JMX234-spe/Proyecto-1) | Descripción corta: qué hace y con qué lenguaje. | 🚧 en camino |
-| [Proyecto 2](https://github.com/JMX234-spe/Proyecto-2) | Descripción corta: bot / web / app / script. | 💡 idea |
-| [Proyecto 3](https://github.com/JMX234-spe/Proyecto-3) | Descripción corta: automatización o experimento. | 🚧 en camino |
-| [Proyecto 4](https://github.com/JMX234-spe/Proyecto-4) | Descripción corta: algo que te dio curiosidad. | 💡 idea |
+[![CI](https://github.com/JMX234-spe/leash/actions/workflows/ci.yml/badge.svg)](https://github.com/JMX234-spe/leash/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<!-- Cuando subas repos reales: cambia el link, pon 1 línea de qué hace y el lenguaje principal. No pongas más de 4, se ve mejor curado que lleno. -->
+> Tengo más cosas en privado (un asistente en TypeScript y una app web con OCR). Salen cuando estén presentables.
 
 ---
 
@@ -77,8 +77,6 @@ Uso herramientas como **OpenCode** y **Antigravity** para ir más rápido, pero 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMX234-spe&layout=compact&hide_border=true&bg_color=00000000&title_color=1F2328" alt="top langs" />
   </picture>
 </p>
-
-> Recién empiezo aquí, así que se ven vacías. Se llenan solas cuando suba código.
 
 <p align="center">
   <picture>
